@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 ## Hello! Eu sou Milton Nascimento Alves da Silva
 
 [Projetos JavaScipt](https://github.com/miltonnotforyou/dio-desafio-github-primeiro-repositorio/tree/main/Projetos%20javaScript)
+<img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
 
 [Projetos Java](https://github.com/miltonnotforyou/dio-java-basico/tree/master)
+<img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 <div align="center">
   <a href="https://github.com/miltonnotforyou">
