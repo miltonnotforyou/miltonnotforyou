@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 ## Hello! Eu sou Milton Nascimento Alves da Silva
 
+[Projetos JavaScipt](https://github.com/miltonnotforyou/dio-desafio-github-primeiro-repositorio/tree/main/Projetos%20javaScript)
+
+[Projetos Java](https://github.com/miltonnotforyou/dio-java-basico/tree/master)
+
 <div align="center">
   <a href="https://github.com/miltonnotforyou">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miltonnotforyou&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
