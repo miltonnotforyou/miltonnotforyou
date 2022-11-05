@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 [Projetos Java](https://github.com/miltonnotforyou/dio-java-basico/tree/master)
 <img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
+[Projeto CSS3 e HTML5](https://github.com/miltonnotforyou/Curso-de-HTML5-e-CSS3)<img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
 <div align="center">
   <a href="https://github.com/miltonnotforyou">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miltonnotforyou&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
