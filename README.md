@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello! Eu sou Milton Nascimento Alves da Silva
+## Hello! Eu sou Milton Nascimento Alves da Silva tenho 39 anos e moro em Piracicaba São Paulo Brasil
+
+- 🔭 I’m currently working on Brazilian Sign Language interpreter
+- :mortar_board: I’m currently learning computer programming :computer:
+
 
 [Projetos JavaScipt](https://github.com/miltonnotforyou/dio-desafio-github-primeiro-repositorio/tree/main/Projetos%20javaScript)
 <img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
