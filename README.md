@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello! Eu sou Milton Nascimento Alves da Silva tenho 39 anos e moro em Piracicaba São Paulo Brasil
+## Hello! I'm Milton Nascimento Alves da Silva 
+I'm 39 years old and live in Piracicaba city, São Paulo estate of Brazil
 
 - 🔭 I’m currently working on Brazilian Sign Language interpreter
 - :mortar_board: I’m currently learning computer programming :computer:
@@ -39,7 +40,9 @@ Here are some ideas to get you started:
 
 <div> 
  <a href = "mailto:mnsilva25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/milton-nascimento-alves-da-silva-7a3bb7143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/milton-nascimento-alves-da-silva-7a3bb7143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/Mnsilva1)        
  
   ![Snake animation](https://github.com/miltonnotforyou/miltonnotforyou/blob/output/github-contribution-grid-snake.svg)
  
