@@ -21,7 +21,7 @@ I'm 39 years old and live in Piracicaba city, São Paulo estate of Brazil
 - :mortar_board: I’m currently learning computer programming :computer:
 
 
-[Projetos JavaScipt](https://github.com/miltonnotforyou/dio-desafio-github-primeiro-repositorio/tree/main/Projetos%20javaScript)
+[Projetos JavaScipt](https://github.com/miltonnotforyou/Projetos-javaScript)
 <img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
 
 [Projetos Java](https://github.com/miltonnotforyou/dio-java-basico/tree/master)
