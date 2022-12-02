@@ -29,12 +29,6 @@ I'm 39 years old and live in Piracicaba city, São Paulo estate of Brazil
 
 [Projeto CSS3 e HTML5](https://github.com/miltonnotforyou/Curso-de-HTML5-e-CSS3)<img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
-<div align="center">
-  <a href="https://github.com/miltonnotforyou">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=miltonnotforyou&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonnotforyou&layout=compact&langs_count=7&theme=radical"/>
-
-</div>
 
 ##
 
