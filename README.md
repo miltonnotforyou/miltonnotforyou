@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=251B68&height=160&section=header&text=Milton&fontSize=30&fontColor=BAB2EF&animation=twinkling&fontAlignY=35" />
 
-### Hi there 👋
-
 <!--
 **miltonnotforyou/miltonnotforyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello! I'm Milton Nascimento Alves da Silva 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=500&height=63&lines=Hi+there+%F0%9F%91%8B;I'm+Milton+Nascimento+Alves;Be+Welcome!)](https://git.io/typing-svg)
+
 I'm 39 years old and live in Piracicaba city, São Paulo estate of Brazil
 
 - 🔭 I’m currently working on Brazilian Sign Language interpreter
