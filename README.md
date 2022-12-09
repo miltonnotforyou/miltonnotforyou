@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=251B68&height=160&section=header&text=Milton&fontSize=30&fontColor=BAB2EF&animation=twinkling&fontAlignY=35" />
+
 ### Hi there 👋
 
 <!--
