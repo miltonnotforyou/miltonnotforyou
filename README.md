@@ -19,6 +19,7 @@ I'm 39 years old and live in Piracicaba city, São Paulo estate of Brazil
 
 - 🔭 I’m currently working on Brazilian Sign Language interpreter
 - :mortar_board: I’m currently learning computer programming :computer:
+- ❤️ I love dogs! 🐕
 
 
 [Projetos JavaScipt](https://github.com/miltonnotforyou/Projetos-javaScript)
