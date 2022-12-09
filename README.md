@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=500&height=63&lines=Hi+there+%F0%9F%91%8B;I'm+Milton+Nascimento+Alves;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Hello%2C+everyone!;My+name+is+Milton+Nascimento+Alves;I'm+39+years+old;I+live+in+Piracicaba+city%2C+;Estate+of+S%C3%A3o+Paulo+-++Brazil;Be+welcome!)](https://git.io/typing-svg)
 
-I'm 39 years old and live in Piracicaba city, São Paulo estate of Brazil
 
 - 🔭 I’m currently working on Brazilian Sign Language interpreter
 - :mortar_board: I’m currently learning computer programming in Oracle Next One Student (Oracle + Altura) :computer:
 - ❤️ I love dogs! 🐕
 
+<br>
 
 [Projetos JavaScipt](https://github.com/miltonnotforyou/Projetos-javaScript)
 <img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
@@ -33,14 +33,18 @@ I'm 39 years old and live in Piracicaba city, São Paulo estate of Brazil
 
 [Projeto JavaScipt e HTML](https://github.com/miltonnotforyou/Curso-Javascript-e-HTML-desenvolva-um-jogo-e-pratique-logica-de-programacao)<img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 
-
-##
-
-<div> 
- <a href = "mailto:mnsilva25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/milton-nascimento-alves-da-silva-7a3bb7143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/Mnsilva1)        
+ <br>
+ 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mnsilva25@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/milton-nascimento-alves-da-silva/)
+[<img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/Mnsilva1)
+ 
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miltonnotforyou&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=" Vitor Hugo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonnotforyou&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+   
+<div>
  
   ![Snake animation](https://github.com/miltonnotforyou/miltonnotforyou/blob/output/github-contribution-grid-snake.svg)
  
