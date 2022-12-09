@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm 39 years old and live in Piracicaba city, São Paulo estate of Brazil
 
 - 🔭 I’m currently working on Brazilian Sign Language interpreter
-- :mortar_board: I’m currently learning computer programming :computer:
+- :mortar_board: I’m currently learning computer programming in Oracle Next One Student (Oracle + Altura) :computer:
 - ❤️ I love dogs! 🐕
 
 
