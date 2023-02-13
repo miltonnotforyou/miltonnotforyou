@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Technologies%2C+I've+used)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Technologies+I've+used)](https://git.io/typing-svg)
   <div align="left">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,java,docker" /><br>
   </div>
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Where%2C+to+find+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Where+to+find+me)](https://git.io/typing-svg)
  
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mnsilva25@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/milton-nascimento-alves-da-silva/)
