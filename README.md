@@ -19,21 +19,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Brazilian Sign Language interpreter
 - :mortar_board: I’m currently learning computer programming in Oracle Next One Student (Oracle + Altura) :computer:
-- ❤️ I love dogs! 🐕
+- ❤️ I love dogs! 🐕 
 
-<br>
+<br/><br/>
 
-[Projetos JavaScipt](https://github.com/miltonnotforyou/Projetos-javaScript)
-<img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />          
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Technologies%2C+I've+used)](https://git.io/typing-svg)
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,java,docker" /><br>
+  </div>
+<br/><br/>
 
-[Projetos Java](https://github.com/miltonnotforyou/dio-java-basico/tree/master)
-<img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-[Projeto CSS3 e HTML5](https://github.com/miltonnotforyou/Curso-de-HTML5-e-CSS3)<img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-
-[Projeto JavaScipt e HTML](https://github.com/miltonnotforyou/Curso-Javascript-e-HTML-desenvolva-um-jogo-e-pratique-logica-de-programacao)<img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img align="center" alt="Ubiratan-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-
- <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Where%2C+to+find+me)](https://git.io/typing-svg)
  
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mnsilva25@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/milton-nascimento-alves-da-silva/)
