@@ -39,7 +39,11 @@ Here are some ideas to get you started:
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=miltonnotforyou&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=" Vitor Hugo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonnotforyou&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-   
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+</p>
+
 <div>
  
   ![Snake animation](https://github.com/miltonnotforyou/miltonnotforyou/blob/output/github-contribution-grid-snake.svg)
