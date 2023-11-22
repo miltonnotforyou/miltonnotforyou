@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Brazilian Sign Language interpreter
-- :mortar_board: I’m currently learning computer programming :computer:
+- :mortar_board: I’m currently learning computer suport :computer:
 - ❤️ I love dogs! 🐕 
 
 <br/><br/>
