@@ -46,16 +46,6 @@ Here are some ideas to get you started:
 
 <div>
  
-  ![Snake animation](https://github.com/miltonnotforyou/miltonnotforyou/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-
-<div align="center">
-<p><b>Visitor Count</b></p>
-<p><img src="https://profile-counter.glitch.me/{miltonnotforyou}/count.svg" /></p>  
-
-</div>  
-
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+😊;Leave+a+⭐,+If+you+like+😊&font=Fira%20Code&center=true&width=700&height=50&weight=600&size=18&duration=2000&pause=2000">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=251B68&height=120&section=footer" />
