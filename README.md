@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Technologies+I've+used)](https://git.io/typing-svg)
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,java,docker,linux,windows,mysql,c#,PHP-Light.svg"/><br>
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,java,docker,linux,windows,mysql,c#,php,php"/><br>
   </div>
 <br/><br/>
 
