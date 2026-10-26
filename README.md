@@ -36,20 +36,14 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/Mnsilva1)
  
 <div align="center">  
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltonnotforyou&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
-</p>
-
-<div>
+<img width="1200" height="630" alt="card" src="https://github.com/user-attachments/assets/9129314b-1445-4ffc-8ba7-3d67216baa82" />
  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+😊;Leave+a+⭐,+If+you+like+😊&amp;font=Fira%20Code&amp;center=true&amp;width=700&amp;height=50&amp;weight=600&amp;size=18&amp;duration=2000&amp;pause=2000" />
-</p>
+
+[![Rio de linguagens](https://github-timeline.frangolab.com/embed/miltonnotforyou/linguagens.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/miltonnotforyou?lang=pt-BR)
 
 [![Trilha da carreira](https://github-timeline.frangolab.com/embed/miltonnotforyou/trilha.svg?paleta=azul&lang=pt-BR)](https://github-timeline.frangolab.com/u/miltonnotforyou?lang=pt-BR)
+
+[![Conquistas](https://github-timeline.frangolab.com/embed/miltonnotforyou/conquistas.svg?lang=pt-BR)](https://github-timeline.frangolab.com/u/miltonnotforyou?lang=pt-BR)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=251B68&height=120&section=footer" />
