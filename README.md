@@ -50,5 +50,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+😊;Leave+a+⭐,+If+you+like+😊&amp;font=Fira%20Code&amp;center=true&amp;width=700&amp;height=50&amp;weight=600&amp;size=18&amp;duration=2000&amp;pause=2000" />
 </p>
 
+[![Trilha da carreira](https://github-timeline.frangolab.com/embed/miltonnotforyou/trilha.svg?paleta=azul&lang=pt-BR)](https://github-timeline.frangolab.com/u/miltonnotforyou?lang=pt-BR)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=251B68&height=120&section=footer" />
